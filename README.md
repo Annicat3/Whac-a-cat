@@ -8,7 +8,7 @@ Features
 * Two different cat sprites
 * Score counter
 * Timer
-* Start button
+* Start Game button
 * Play Again button
 
 Built With
@@ -16,4 +16,12 @@ Built With
 * CSS
 * JavaScript
 
-This was my first game project and a way to learn web development basics.
+About
+This was my first JavaScript game project and a way to learn the basics of web development.
+
+Fun Fact
+The two cat sprites are inspired by my own cats, Loki and Smollo.
+
+
+Assets
+The cat sprites, box sprites, and background were created with the help of ChatGPT and then used in the game.
